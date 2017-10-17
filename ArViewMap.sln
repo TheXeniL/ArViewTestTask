@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArViewMap", "ArViewMap\ArViewMap.csproj", "{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Release|iPhone.Build.0 = Release|iPhone
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AD5D8989-A85D-4EFE-9B0B-FDFD4832D016}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
